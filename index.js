@@ -42,4 +42,4 @@ cmd.execute(client, message, args)
     });
 console.log("Bot Encendido!")
 
-client.login("MTAxNDY4OTUzNjkwOTAwNDgzMA.Gu6PjN.6TGJXomN1IAsXdgcoJQush5SfQmZwqMRv1oMFI")
+client.login("")
